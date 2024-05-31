@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate database
 - 📫 How to reach me Discord: fehvx.001
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Autist
+- ⚡ Fact: I'm Autist
 
 <!---
 vexoz-cdi/vexoz-cdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
