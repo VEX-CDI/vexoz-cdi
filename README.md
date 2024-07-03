@@ -5,7 +5,7 @@
 -  How to reach me Discord: fehvx.cdi
 -  Pronouns: he/him
 -  Fact: I'm Autistc
-- 
+  
 
 <!---
 vexoz-cdi/vexoz-cdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
